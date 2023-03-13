@@ -12,7 +12,7 @@ body{
 }
 
 hr{
-    border-top: 1.5px solid #2b2b2b;
+    border-top: 2px solid #2b2b2b;
     width: 100%;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -83,7 +83,7 @@ header div{
 
 .inner-div {
     margin: auto;
-    max-width: 700px;
+    width: 60%;
 }
 
 .inner-div h2{
