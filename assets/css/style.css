@@ -71,7 +71,6 @@ header div{
 
 /* section */
 
-
 .outer-div {
     display: flex;
     justify-content: center;
@@ -79,9 +78,18 @@ header div{
     flex-direction: column;
     text-align: center;
     height: 30vh;
+    margin-bottom: 60px;
 }
 
 .inner-div {
     margin: auto;
     max-width: 700px;
+}
+
+.inner-div h2{
+    margin: 15px;
+}
+
+.inner-div p{
+    font-size: 120%;
 }
