@@ -8,7 +8,7 @@
 
 body{
     color: #222;
-    font-weight: 300;
+    font-weight: 400;
     background-color: #fff;
     font-family: Kanit, sans-serif;
 }
@@ -66,14 +66,6 @@ header a{
     margin: 20px;
 }
 
-header div{
-    font-size: 150%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-    color: #2b2b2b;
-}
 
 /* about us section */
 
@@ -83,28 +75,49 @@ header div{
     align-items: center;
     flex-direction: column;
     text-align: center;
-    height: 250px;
+    height: auto;
     margin-bottom: 60px;
 }
 
 .inner-div {
     margin: 20px;
-    width: 60%;
+    width: 80%;
 }
 
 .inner-div h2{
     margin: 20px;
+    font-size: 200%;
 }
 
 .inner-div p{
     font-size: 130%;
 }
 
+#main-image{
+    height: 500px;
+    width: 70%;
+    border-radius: 1%;
+    background: no-repeat center center;
+}
 
 /* mission */
 
 #mission{
     width: 100%;
     height: auto;
-    margin-top: 50px;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#mission-heading{
+    font-size: 150%;
+    text-align: center;
+    margin: 10px;
+}
+
+#left-one{
+    float: left;
 }
