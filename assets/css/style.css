@@ -6,6 +6,15 @@
     border: none;
 }
 
+header{
+    width: auto;
+    height: 100px;
+    background-color: #F8A248;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
 body{
     color: #222;
     font-weight: 400;
@@ -16,13 +25,15 @@ body{
 hr{
     border-top: 2px solid #2b2b2b;
     width: 100%;
-    margin-top: 20px;
-    margin-bottom: 20px;
+
 }
 
 /* navigation menu */
 
 nav {
+    width: auto;
+    height: 100px;
+    background-color: #4dc55d;
     display: flex;
     justify-content: center;
     align-items: center
@@ -31,6 +42,7 @@ nav {
 #menu{
     font-size: 130%;
     letter-spacing: 3px;
+
 }
 
 #menu li{
@@ -106,18 +118,62 @@ header a{
     width: 100%;
     height: auto;
     margin-top: 80px;
-    display: flex;
     align-items: center;
-    flex-direction: column;
     text-align: center;
+    justify-content: center;
 }
 
 #mission-heading{
     font-size: 150%;
     text-align: center;
-    margin: 10px;
+    background-color: #F8A248;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+#mission-inner{
+    width: 100%;
+    height: 300px;
+    background-color: #4dc55d;
+    display: flex;
 }
 
 #left-one{
     float: left;
+    width: 30%;
+    height: auto;
+    padding: 20px;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#center-one{
+    width: 30%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+}
+
+#right-one{
+    float: right;
+    width: 30%;
+    height: auto;
+    padding: 20px;
+}
+
+/* mission images */
+
+#left-image{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+    
 }
