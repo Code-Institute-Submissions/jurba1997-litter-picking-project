@@ -219,5 +219,28 @@ header a{
 }
 
 footer{
-    
+    color: #222;
+    font-weight: 400;
+    background-color: #F8A248;
+    font-family: Kanit, sans-serif;
+    height: 260px;
+}
+
+footer h2{
+    text-align: center;
+    padding: 30px;
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks > li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 180%;
+    margin: 5%;
+    color: #222;
 }
