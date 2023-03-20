@@ -150,12 +150,14 @@ header a{
     width: 30%;
     height: auto;
     padding: 20px;
+    align-items: center;
 }
 
 #center-one{
     width: 30%;
     height: auto;
     padding: 20px;
+    align-items: center;
 }
 
 #right-one{
@@ -163,6 +165,12 @@ header a{
     width: 30%;
     height: auto;
     padding: 20px;
+    align-items: center;
+}
+
+.inner{
+    align-items: center;
+    text-align: center;
 }
 
 /* mission images */
