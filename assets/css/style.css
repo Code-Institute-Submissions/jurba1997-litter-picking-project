@@ -147,26 +147,20 @@ header a{
 
 #left-one{
     float: left;
-    width: 33%;
+    width: 30%;
     height: auto;
     padding: 20px;
-    align-items: center;
-    flex-direction: column;
-    text-align: center;
 }
 
 #center-one{
-    width: 33%;
+    width: 30%;
     height: auto;
-    align-items: center;
-    flex-direction: column;
-    text-align: center;
     padding: 20px;
 }
 
 #right-one{
     float: right;
-    width: 33%;
+    width: 30%;
     height: auto;
     padding: 20px;
 }
