@@ -36,34 +36,40 @@
             </ul>
         </nav>
         <hr>
-
-        <form action="" id="background-section">
+        <section id="form-section">
             <div id="background-div">
                 <img src="assets/images/background.jpg" alt="Clean forest floor">
             </div>
 
-            <div id="login">
-            <h2>Enter your details to get a free picker and bags!</h2>
+            <form action="action_page.php" method="post" id="signup">
+                <div class="container-div">
 
-            <label for="fname"><b>First Name: </b></label>
-            <input type="text" placeholder="Enter First Name" name="fname" required>
+                    <label for="fname"><b>First Name</b></label>
+                    <input type="text" placeholder="Enter First Name" name="fname" required>
 
-            <label for="lname"><b>Last Name: </b></label>
-            <input type="text" placeholder="Enter Last Name" name="lname" required>
+                    <label for="lname"><b>Last Name</b></label>
+                    <input type="text" placeholder="Enter Last Name" name="lname" required>
 
-            <label for="email"><b>Email: </b></label>
-            <input type="email" placeholder="Enter Email" name="email" required>
+                    <label for="email"><b>Email</b></label>
+                    <input type="email" placeholder="Enter Your Email" name="email" required>
 
-            
 
-            <button type="submit">Login</button>
-            <label>
-            <input type="checkbox" checked="checked" name="remember"> Remember me
-            </label>
+                    <label for="road">Friday</label>
+                    <input type="checkbox" id="friday" name="day" value="friday" required>
 
-            </div>
-        </form>
+                    <label for="trail">Saturday</label>
+                    <input type="checkbox" id="saturday" name="day" value="saturday" required>
 
+                    <label for="both">Sunday</label>
+                    <input type="checkbox" id="sunday" name="day" value="sunday" required>
+                
+                    <button type="submit">Sign Up</button>
+                    <label>
+                    <input type="checkbox" checked="checked" name="remember"> Remember me
+                    </label>
+                </div>
+            </form>
+        </section>
         <hr>
     <footer>
         <h2>FOLLOW US</h2>
