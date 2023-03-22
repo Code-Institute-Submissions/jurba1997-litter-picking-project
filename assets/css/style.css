@@ -325,10 +325,15 @@ footer h2{
     background-color: #F8A248;
 }
 
+::placeholder {
+    color: #fff;
+    font-weight: 300;
+}
+
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
 
 @media screen and (max-width: 1200px){
-    
+
 }
