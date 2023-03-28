@@ -358,7 +358,13 @@ footer h2{
 
     .mission-class {
         width: 70% !important;
-        height: 150px;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .mission-images{
+        width: 100%;
+        height: auto;
     }
 
 }
