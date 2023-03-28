@@ -188,7 +188,7 @@ header a{
 
 #meetups{
     width: 100%;
-    height: 150px;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -197,9 +197,9 @@ header a{
 
 #meetups div{
     width: 100%;
-    height: 150px;
+    height: auto;
     text-align: center;
-    margin-top: 50px;
+    margin: 10px;
 }
 
 /* footer */
@@ -215,7 +215,7 @@ footer{
 footer h2{
     font-size: 200%;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 
 .social-networks{
@@ -325,6 +325,7 @@ footer h2{
     #menu{
         align-items: center;
         display: flex;
+        flex-direction: row-reverse;
     }
 
     #menu li{
@@ -367,28 +368,22 @@ footer h2{
         height: auto;
     }
 
+    #meetups div{
+        font-size: 90%;
+    }
+
 }
 
 /* For large to medium screens sizes from 950px wide and down */
 
 @media screen and (max-width: 950px){
-    #mission-inner{
-        height: auto;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
 
     #images{
         column-count: 2;
     }
 
-    .mission-class {
-        width: 70% !important;
-        height: auto;
-        margin: 0 auto;
-    }
+    
+
 }
 
 /* For large to medium screens sizes from 800px wide and down */
@@ -398,17 +393,4 @@ footer h2{
         column-count: 2;
     }
 
-    #mission-inner{
-        height: auto;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .mission-class {
-        width: 70% !important;
-        height: auto;
-        margin: 0 auto;
-    }
 }
