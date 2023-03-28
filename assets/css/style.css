@@ -264,6 +264,7 @@ footer h2{
     max-width: 500px;
     position: absolute;
     left: 10%;
+    right: 10%;
     padding: 25px;
     height: auto;
     opacity: 0.8;
