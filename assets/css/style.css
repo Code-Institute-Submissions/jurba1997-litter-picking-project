@@ -52,7 +52,7 @@ nav {
 #menu li{
     float: right;
     list-style-type: none;
-    margin: 0px 50px 0px 50px;
+    margin: 0px 100px;
 }
 
 #menu a{
@@ -110,8 +110,8 @@ header a{
 }
 
 #main-image{
-    width: 70%;
-    height: auto;
+    width: 80%;
+    height: 650px;
     border-radius: 1%;
     background: no-repeat center center;
 }
@@ -141,7 +141,7 @@ header a{
 
 #mission-inner{
     width: 100%;
-    height: 400px;
+    height: 450px;
     background-color: #4dc55d;
     display: flex;
 }
@@ -150,14 +150,14 @@ header a{
     float: left;
     width: 30%;
     height: auto;
-    padding: 20px;
+    padding: 25px;
     align-items: center;
 }
 
 #center-one{
     width: 30%;
     height: auto;
-    padding: 20px;
+    padding: 25px;
     align-items: center;
 }
 
@@ -165,7 +165,7 @@ header a{
     float: right;
     width: 30%;
     height: auto;
-    padding: 20px;
+    padding: 25px;
     align-items: center;
 }
 
@@ -176,26 +176,13 @@ header a{
 
 /* mission images */
 
-#left-image{
+.mission-images{
     width: 100%;
-    height: 250px;
+    height: 300px;
     padding: 10px;
-    border-radius: 10%;
+    border-radius: 5%;
 }
 
-#center-image{
-    width: 100%;
-    height: 250px;
-    padding: 10px;
-    border-radius: 10%;
-}
-
-#right-image{
-    width: 100%;
-    height: 250px;
-    padding: 10px;
-    border-radius: 10%;
-}
 
 /* meetup times*/
 
@@ -226,6 +213,7 @@ footer{
 }
 
 footer h2{
+    font-size: 200%;
     text-align: center;
     padding: 30px;
 }
@@ -239,7 +227,7 @@ footer h2{
 }
 
 .social-networks i{
-    font-size: 180%;
+    font-size: 250%;
     margin: 5%;
     color: #222;
 }
@@ -340,8 +328,8 @@ footer h2{
     }
 
     #menu li{
-        clear: right;
-        margin: 0px 20px 0px 20px;
+        float: right;
+        margin: 0px 20px;
         font-size: 65%;
     }
 
@@ -351,26 +339,70 @@ footer h2{
     }
 
     #mission-inner{
-        height: 1200px;
+        width: 100%;
+        height: auto;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
 
-    .mission-class{
-        width: 150%;
+
+    .social-networks i{
+        font-size: 150%;
     }
+
+    footer h2{
+        font-size: 150%;
+    }
+
+    .mission-class {
+        width: 70% !important;
+        height: 150px;
+    }
+
 }
 
 /* For large to medium screens sizes from 950px wide and down */
 
 @media screen and (max-width: 950px){
     #mission-inner{
-        height: 1400px;
+        height: auto;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+
+    #images{
+        column-count: 2;
+    }
+
+    .mission-class {
+        width: 70% !important;
+        height: auto;
+        margin: 0 auto;
+    }
+}
+
+/* For large to medium screens sizes from 800px wide and down */
+
+@media screen and (max-width: 800px){
+    #images{
+        column-count: 2;
+    }
+
+    #mission-inner{
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .mission-class {
+        width: 70% !important;
+        height: auto;
+        margin: 0 auto;
     }
 }
