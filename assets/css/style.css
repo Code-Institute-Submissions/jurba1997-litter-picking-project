@@ -253,18 +253,19 @@ footer h2{
     background-size: cover;
     background-position: center;
     height: 700px;
+    align-items: center;
 }
 
 #signup{
     font-size: 130%;
-    margin: 100px 10% 0 0;
+    margin: 100px 0;
     color: #fff;
     background-color: #2b2b2b;
     max-width: 500px;
     position: absolute;
-    left: 30%;
+    left: 10%;
     padding: 25px;
-    height: 500px;
+    height: auto;
     opacity: 0.8;
     border-radius: 5%;
 }
@@ -382,7 +383,13 @@ footer h2{
         column-count: 2;
     }
 
-    
+    #section-form{
+        height: 700px;
+    }
+
+    #signup{
+        height: auto;
+    }
 
 }
 
@@ -391,6 +398,14 @@ footer h2{
 @media screen and (max-width: 800px){
     #images{
         column-count: 2;
+    }
+
+    #section-form{
+        height: 800px;
+    }
+
+    #signup{
+        height: auto;
     }
 
 }
