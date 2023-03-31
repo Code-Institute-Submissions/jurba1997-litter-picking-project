@@ -24,6 +24,19 @@ The website offers all the information about The Clean Bunch: A short about us s
 
 - **Join The Clean Bunch Section**
     - The Join The Clean Bunch or the About Us section contains the basic information about The Clean bunch, and highlights our values.
-    - This section shows the user what we are about and why they should join us.
+    - The text and the image in this section show the user what we are about and why they should join us.
 ![screenshot of the about us section](assets/images/aboutus.png)
 ![screenshot of the main image](assets/images/aboutusimg.png)
+
+- **Mission**
+    - The Mission section tells the user about what we actually do, we collect waste from the environment and we keep it clean.
+    - This section tells the user a little more about our values and why they should join us.
+![screenshot of the Mission section of the page](assets/images/mission.png)
+
+- **Meetup Times**
+    - This section contains the weekly meetup times
+![screenshot of the meetup times section](assets/images/times.png)
+
+- **Footer**
+    -The footer contains the social media links
+![screenshot of the footer of the page](assets/images/footer.png)
