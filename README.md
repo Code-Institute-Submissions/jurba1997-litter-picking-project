@@ -52,3 +52,38 @@ The website offers all the information about The Clean Bunch: A short about us s
 ![screenshot of the signup form](assets/images/signup.png)
 
 ## Testing
+
+- I tested that the page works in different browsers: Chrome, Firefox, Bing, as well as multiple mobile devices.
+
+- The project is responsive and works on all standard screen sizes.
+
+- All the text on the site is readable and easy to understand.
+
+- I've confirmed that the form works as intended .
+
+## Bugs 
+
+- I've had no major bugs while creating the project. Every problem I've encountered was solved with a quick google search.
+
+## Validator Testing
+
+- HTML
+    - After testing in the W3C validator, no errors were found.
+
+- CSS
+    - After testing in the Jigsaw validator, no errors were found.
+
+- Accesibility
+
+![screenshot of the lighthouse results](assets/images/lighthouse.png)
+
+## Unfixed Bugs
+
+No unfixed bugs.
+
+## Deployment
+- The site was deployed to Github pages.
+
+The live link: [https://jurba1997.github.io/litter-picking-project/index.html](The Clean Bunch)
+
+## Credits
