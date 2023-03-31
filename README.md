@@ -9,9 +9,13 @@ The website offers all the information about The Clean Bunch: A short about us s
 
 ## Features
 
-- Body
+- Site
     - I chose the colors of the Irish flag for my website to pay homage to the Irish culture, but to also make a statement about the importance of unity and cooperation in tackling environmental issues.
 
 - The Header 
-    - The header shows the name of the group
-    - The name tells the user what we are about: we are a group of individuals that care about the invironment
+    - The header shows the name of the group.
+    - The name tells the user what we are about: we are a group of individuals that care about the environment.
+![screenshot of the header](assets/images/header.png)
+
+- Navigation
+    - Under the header you can find the navigation bar
