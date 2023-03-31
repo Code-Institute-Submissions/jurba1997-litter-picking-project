@@ -92,6 +92,8 @@ The live link: [The Clean Bunch](https://jurba1997.github.io/litter-picking-proj
 
 - The code to create the social media links was taken from the CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) Project
 
+- The code that inspired the Signup form was also taken from the CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) Project
+
 **Media**
 
-- 
+- the photos used in the site were taken from [Shutterstock](https://www.shutterstock.com/)
