@@ -1,4 +1,4 @@
-#The Clean Bunch
+# The Clean Bunch
 
 The Clean Bunch website is a landing page for anyone who is looking to join The Clean Bunch litter picking group. 
 The Clean Bunch is based in Monaghan, but we aim to raise awareness about the importance of responsible waste disposal and encourage others to take action in their own communities.
