@@ -6,3 +6,12 @@ The Clean Bunch is based in Monaghan, but we aim to raise awareness about the im
 The website offers all the information about The Clean Bunch: A short about us section, meeting times, a gallery and a sign up form.
 
 ![screenshot of the amiresponsive site](assets/images/amiresponsive.png)
+
+## Features
+
+- Body
+    - I chose the colors of the Irish flag for my website to pay homage to the Irish culture, but to also make a statement about the importance of unity and cooperation in tackling environmental issues.
+
+- The Header 
+    - The header shows the name of the group
+    - The name tells the user what we are about: we are a group of individuals that care about the invironment
