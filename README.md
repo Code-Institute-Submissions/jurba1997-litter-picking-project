@@ -38,5 +38,9 @@ The website offers all the information about The Clean Bunch: A short about us s
 ![screenshot of the meetup times section](assets/images/times.png)
 
 - **Footer**
-    -The footer contains the social media links
+    - The footer contains the social media links
 ![screenshot of the footer of the page](assets/images/footer.png)
+
+- **Gallery**
+
+- **The Signup Form**
