@@ -84,13 +84,13 @@ No unfixed bugs.
 ## Deployment
 - The site was deployed to Github pages.
 
-The live link: (The Clean Bunch)[https://jurba1997.github.io/litter-picking-project/index.html]
+The live link: [The Clean Bunch](https://jurba1997.github.io/litter-picking-project/index.html)
 
 ## Credits
 
 **Content**
 
-- The code to create the social media links was taken from the CI (Love Running)[https://github.com/Code-Institute-Org/love-running-2.0] Project
+- The code to create the social media links was taken from the CI [Love Running](https://github.com/Code-Institute-Org/love-running-2.0) Project
 
 **Media**
 
