@@ -18,4 +18,10 @@ The website offers all the information about The Clean Bunch: A short about us s
 ![screenshot of the header](assets/images/header.png)
 
 - Navigation
-    - Under the header you can find the navigation bar
+    - Under the header you can find the navigation bar, which contains links to the different sections of the same page.
+    -The navigation bar contains links to the Home page, Gallery page and the Get Involved page which leads to the sign up form.
+![screenshot of the navigation bar](assets/images/navigation.png)
+
+- Join The Clean Bunch Section
+    - 
+![screenshot of the about us section](assets/images/aboutus.png)
