@@ -42,13 +42,13 @@ The website offers all the information about The Clean Bunch: A short about us s
 ![screenshot of the footer of the page](assets/images/footer.png)
 
 - **Gallery**
-    -The Gallery contains photos of various people collecting litter
-    -The goal of this section is to show people what it looks like to collect litter and is used to inspire people even more to join us in our efforts to clean the environment.
+    - The Gallery contains photos of various people collecting litter
+    - The goal of this section is to show people what it looks like to collect litter and is used to inspire people even more to join us in our efforts to clean the environment.
 ![screenshot of the gallery](assets/images/gallery.png)
 
 - **The Get Involved Section**
-    -The Get Involved section contains a form to collect the information from the people so they can join The Clean Bunch
-    -The form collect their first name, last name and their email, as well as giving them an option to choose on which days they want to join us.
+    - The Get Involved section contains a form to collect the information from the people so they can join The Clean Bunch
+    - The form collect their first name, last name and their email, as well as giving them an option to choose on which days they want to join us.
 ![screenshot of the signup form](assets/images/signup.png)
 
 ## Testing
