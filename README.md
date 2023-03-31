@@ -9,19 +9,19 @@ The website offers all the information about The Clean Bunch: A short about us s
 
 ## Features
 
-- Site
+- **Site**
     - I chose the colors of the Irish flag for my website to pay homage to the Irish culture, but to also make a statement about the importance of unity and cooperation in tackling environmental issues.
 
-- The Header 
+- **The Header** 
     - The header shows the name of the group.
     - The name tells the user what we are about: we are a group of individuals that care about the environment.
 ![screenshot of the header](assets/images/header.png)
 
-- Navigation
+- **Navigation**
     - Under the header you can find the navigation bar, which contains links to the different sections of the same page.
     -The navigation bar contains links to the Home page, Gallery page and the Get Involved page which leads to the sign up form.
 ![screenshot of the navigation bar](assets/images/navigation.png)
 
-- Join The Clean Bunch Section
+- **Join The Clean Bunch Section**
     - 
 ![screenshot of the about us section](assets/images/aboutus.png)
