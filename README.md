@@ -84,6 +84,6 @@ No unfixed bugs.
 ## Deployment
 - The site was deployed to Github pages.
 
-The live link: [https://jurba1997.github.io/litter-picking-project/index.html] (The Clean Bunch)
+The live link: [The Clean Bunch] (https://jurba1997.github.io/litter-picking-project/index.html)
 
 ## Credits
